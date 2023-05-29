@@ -31,6 +31,8 @@ Entering a search phrase produces a response highlighting the key sentences of t
 ## Data
 The Data tab is the primary interface for uploading custom datasets for use in the Chat tab. Use the '+' icon to add a dataset, which you can then access in the Chat tab when creating a new chat session.
 
+![Image not found!](/quill-docs/)
+
 ## Contact
 For questions and feature requests, contact kartik@quillai.co.
 
