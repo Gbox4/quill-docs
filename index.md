@@ -9,5 +9,8 @@ Chat is the primary interface for interacting with uploaded data tables and Quil
 
 To start a chat session, click the yellow '+' icon and select a dataset using the dropdown menu. Any datasets you have uploaded in the data tab will appear as options here, in addition to the pre-processed datasets. 
 
+### The Chat interface
+![Image not found!](/)
+
 
 
